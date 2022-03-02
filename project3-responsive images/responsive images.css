@@ -1,0 +1,12 @@
+﻿body{
+    max-width:1700px;
+    margin:0 auto;
+}
+img{
+    margin:0 auto;
+    display:block;
+    max-width:100%;
+}
+h1{
+    text-align:center;
+}
